@@ -1,7 +1,7 @@
 
 import './App.css';
 
-import Calculator1 from "./Calculator1"
+import GalleryAPP1 from './GalleryApp1'
 
 
 
@@ -11,7 +11,7 @@ function App() {
   return (
     <div>
       <center>
-        <Calculator1 />
+        <GalleryAPP1 />
       </center>
     </div>
   );
